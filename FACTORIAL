@@ -1,0 +1,20 @@
+#include<stdio.h>
+int main()
+{
+  int a;
+  printf("Enter the number");
+  scanf("%d,&a);
+  int f =ft(a);
+  printf("The factorial is %d,f1);
+}
+  int ft(int a);
+{
+  if(n<=2)
+  return a;
+}
+  else
+{
+    return a *(a-1);
+ }
+
+}
